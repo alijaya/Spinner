@@ -1,0 +1,13 @@
+
+{
+	"name" : "assets",
+	"files" : [ 
+	{
+		"name" : "level",
+		"files" : [ "Level1.json", "Level10.json", "Level11.json", "Level12.json", "Level13.json", "Level14.json", "Level15.json", "Level16.json", "Level17.json", "Level18.json", "Level19.json", "Level2.json", "Level20.json", "Level3.json", "Level4.json", "Level5.json", "Level6.json", "Level7.json", "Level8.json", "Level9.json" ]
+	}, 
+	{
+		"name" : "Spinner",
+		"files" : [ "Ball.png", "BGM.mp3", "BorderLeftUp.png", "BorderRightDown.png", "BoundCountCounter.png", "BoundHollow.png", "BoundNormal.png", "BoundOneSideLeftUp.png", "BoundOneSideRightDown.png", "Box.png", "Knock.mp3", "SequenceCCW.png", "SequenceCW.png", "SequenceFlip.png", "SoundDisabled.png", "SoundEnabled.png", "Swoosh.mp3", "Tap.mp3", "Title.png" ]
+	} ]
+}

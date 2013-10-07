@@ -1,0 +1,11 @@
+-main SpinnerMain
+-lib hxJSON2
+-lib feffects
+-cp ./
+-cp ../../manaGearz/src
+-swf9 ../bin/Spinner.swf
+-swf-version 9
+-swf-header 250:400:30:502d16
+
+--next
+-cmd open ../bin/Spinner.swf

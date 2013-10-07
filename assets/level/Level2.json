@@ -1,0 +1,24 @@
+{
+	"name" : "No Name",
+	"author" : "alijaya",
+	"description" : "No Description",
+	
+	"width" : 3,
+	"height" : 3,
+	
+	"startX" : 0,
+	"startY" : 2,
+	
+	"goalX" : 1,
+	"goalY" : 1,
+	
+	"mapH" : [	0,1,0,
+				0,0,0],
+	"mapV" : [	0,0,
+				0,0,
+				0,0],
+	
+	"sequence" : [0,0],
+	
+	"bound" : [	1, 1]
+}

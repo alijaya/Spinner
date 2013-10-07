@@ -1,0 +1,26 @@
+{
+	"name" : "The Hollow",
+	"author" : "alijaya",
+	"description" : "Introduce the hollow",
+	
+	"width" : 4,
+	"height" : 4,
+	
+	"startX" : 0,
+	"startY" : 3,
+	
+	"goalX" : 3,
+	"goalY" : 1,
+	
+	"mapH" : [	0,0,0,0,
+				0,0,0,0,
+				0,0,0,0],
+	"mapV" : [	0,1,0,
+				0,0,0,
+				0,0,0,
+				0,0,0],
+	
+	"sequence" : [1,1,1,1,1,1,1],
+	
+	"bound" : [	1, 4]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+  <app title="Spinner" main="SpinnerMain" package="org.alijaya.spinner" version="1.0.0" company="alijaya" />
+  <window width="250" height="400" fps="30" orientation="portrait" background="0x502D16" resizable="true" />
+ 
+  <set name="BUILD_DIR" value="bin" />
+  <classpath name="src" />
+  <classpath name="../manaGearz/src" />
+
+  <haxelib name="nme" />
+  <haxelib name="hxJSON2" />
+  <haxelib name="feffects" />
+
+  <assets path="assets" include="*" if="target_android" />
+  <assets path="assets" include="*" exclude="Monaco.ttf" unless="target_android" />
+
+  <ndll name="nme" haxelib="nme" />
+</project>
